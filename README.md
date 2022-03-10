@@ -22,7 +22,7 @@
    <br/>
  <br/>
     <a href="https://www.theapis.xyz">
-      <img margin="auto" src="https://www.theapis.xyz/static/img/apis_logo.png"/>
+      <img margin="auto" src="https://gateway.pinata.cloud/ipfs/QmajRazBNZs4eavH9j56LDcMD5Y5SHycSWvA5v1rbU7FjN"/>
     </a>
   </p>
 
